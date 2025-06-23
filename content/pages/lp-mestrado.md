@@ -141,7 +141,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Solicitar consultoria
         altText: ''
         url: /
         showIcon: false
