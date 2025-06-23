@@ -333,7 +333,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Entendimento
+        title: Alinhamento
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
