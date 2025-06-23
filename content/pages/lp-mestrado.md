@@ -34,13 +34,9 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/main-hero.svg
+      url: /images/3122320997322067610.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     elementId: ''
     colors: bg-light-fg-dark
     styles:
