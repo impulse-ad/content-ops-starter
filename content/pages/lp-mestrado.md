@@ -121,6 +121,15 @@ sections:
             justifyContent: center
     actions:
       - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: Solicitar consultoria
         altText: ''
         url: /
