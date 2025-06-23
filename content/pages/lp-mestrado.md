@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: A dissertação tira seu sono?
       color: text-dark
-    subtitle: 'Orientação Personalizada para Mestrado, Doutorado e Artigos Científicos.'
+    subtitle: Orientação Personalizada para Mestrado e Artigos Científicos.
     text: >
       A Netlify website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
