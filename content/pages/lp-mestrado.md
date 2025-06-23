@@ -316,7 +316,7 @@ sections:
           Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          url: /images/agendamento.webp
+          url: /images/agendamento (1).webp
           altText: Placholder image
           styles:
             self:
