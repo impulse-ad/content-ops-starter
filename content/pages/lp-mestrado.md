@@ -99,7 +99,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Atendimento
-        subtitle: The Job Stuff
+        subtitle: Personalizado com equipe personalizada
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
