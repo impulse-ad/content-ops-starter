@@ -162,7 +162,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: Conclua seu mestrado com excelência
       color: text-dark
       styles:
         self:
