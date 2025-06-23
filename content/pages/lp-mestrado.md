@@ -219,6 +219,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: Como funciona?
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
