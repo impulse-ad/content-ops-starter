@@ -311,7 +311,7 @@ sections:
       - type: FeaturedItem
         title: Agendamento
         tagline: This is the tagline
-        subtitle: Agendamos uma conversa com um especialista
+        subtitle: De uma conversa com um especialista
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
