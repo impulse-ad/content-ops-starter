@@ -50,7 +50,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Apoio
         tagline: ''
         subtitle: This is the item subtitle
         text: |
