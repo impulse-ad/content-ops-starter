@@ -23,15 +23,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/3122320997322067610.png
@@ -51,20 +42,40 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Benefícios
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Ao contratar a consultoria
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Apoio
+        tagline: ''
+        subtitle: Em todas as etapas do projeto
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+      - type: FeaturedItem
+        title: Consultoria
+        subtitle: Ética e especializada
+        text: ''
         image:
           type: ImageBlock
           url: /images/icon1.svg
@@ -87,12 +98,9 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Atendimento
+        subtitle: Personalizado com equipe personalizada
+        text: ''
         image:
           type: ImageBlock
           url: /images/icon2.svg
@@ -112,12 +120,9 @@ sections:
             textAlign: left
             justifyContent: center
       - type: FeaturedItem
-        title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Suporte
+        subtitle: jamentoPara organização e
+        text: ''
         image:
           type: ImageBlock
           url: /images/icon3.svg
@@ -136,7 +141,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Solicitar consultoria
         altText: ''
         url: /
         showIcon: false
@@ -146,7 +151,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -164,56 +169,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: ImageGallerySection
-    subtitle: Award winning enterprises trust us
-    images:
-      - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-      - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-      - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-      - type: ImageBlock
-        url: /images/telus-logo.svg
-        altText: Telus logo
-      - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-      - type: ImageBlock
-        url: /images/sanity-logo.svg
-        altText: Sanity logo
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
   - type: DividerSection
     title: Divider
     colors: bg-light-fg-dark
