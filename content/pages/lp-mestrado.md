@@ -5,17 +5,18 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Unblock your team boost your time to production
+      text: A dissertação tira seu sono?
       color: text-dark
-    subtitle: Subtitle goes here
+    subtitle: Orientação Personalizada para Mestrado e Artigos Científicos.
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Oferecemos consultoria ética e individualizada para cada etapa do seu
+      projeto, desde a pesquisa inicial até a defesa final. Nosso foco é na sua
+      autonomia e no desenvolvimento de um trabalho autêntico e de alta
+      qualidade.
     actions:
       - type: Button
-        label: Get started
-        altText: ''
+        label: Solicite Sua Consultoria Agora!
+        altText: Solicitar Consultoria
         url: /
         showIcon: false
         icon: arrowRight
