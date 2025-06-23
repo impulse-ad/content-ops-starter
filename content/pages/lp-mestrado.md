@@ -340,7 +340,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/entender.webp
+          url: /images/entender (1).webp
           altText: Placeholder image
           styles:
             self:
