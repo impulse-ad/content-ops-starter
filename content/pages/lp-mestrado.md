@@ -335,7 +335,7 @@ sections:
       - type: FeaturedItem
         title: Alinhamento
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Para entender suas necessidades
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
