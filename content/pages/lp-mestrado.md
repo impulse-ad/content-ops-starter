@@ -16,7 +16,7 @@ sections:
     actions:
       - type: Button
         label: Solicite Sua Consultoria Agora!
-        altText: ''
+        altText: Solicitar Consultoria
         url: /
         showIcon: false
         icon: arrowRight
