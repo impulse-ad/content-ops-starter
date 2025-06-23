@@ -168,11 +168,14 @@ sections:
         self:
           textAlign: center
     subtitle: Sua jornada acadêmica com apoio especializado
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Receba orientação estratégica e personalizada para estruturar, desenvolver
+      e finalizar seu TCC com mais clareza e segurança. A consultoria ajuda a
+      evitar bloqueios criativos, organizar ideias com foco e cumprir prazos sem
+      estresse. Alcance resultados acadêmicos sólidos com o suporte de quem
+      entende do assunto.
+
     actions: []
     media:
       type: VideoBlock
