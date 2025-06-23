@@ -170,14 +170,9 @@ sections:
     subtitle: Sua jornada acadêmica com apoio especializado
     text: >+
       ###### Receba orientação estratégica e personalizada para estruturar e
-      finalizar seu TCC com mais clareza e segurança.
-
-
-      ###### A consultoria ajuda a evitar bloqueios criativos, organizar ideias
-      com foco e cumprir prazos sem estresse.
-
-
-      ###### Alcance resultados acadêmicos sólidos com nosso suporte
+      finalizar seu TCC com mais clareza e segurança. A consultoria ajuda a
+      evitar bloqueios criativos, organizar ideias com foco e cumprir prazos sem
+      estresse. Alcance resultados acadêmicos sólidos com nosso suporte
       especializado.
 
     actions: []
