@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Dissertação
 sections:
   - type: GenericSection
     title:
