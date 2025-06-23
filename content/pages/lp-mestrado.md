@@ -42,7 +42,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Benefícios da Conultoria
+      text: Benefícios
       color: text-dark
       styles:
         self:
