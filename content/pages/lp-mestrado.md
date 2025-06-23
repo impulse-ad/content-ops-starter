@@ -167,7 +167,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Falar com Especialista
         altText: ''
         url: /
         showIcon: false
