@@ -309,7 +309,7 @@ sections:
     subtitle: Etapas da Conultoria
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Agendamento
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
