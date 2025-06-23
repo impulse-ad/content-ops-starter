@@ -23,15 +23,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       type: ImageBlock
       url: /images/3122320997322067610.png
