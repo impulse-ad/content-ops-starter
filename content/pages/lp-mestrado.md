@@ -306,7 +306,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Etapas da Conultoria
     items:
       - type: FeaturedItem
         title: Feature Item One
