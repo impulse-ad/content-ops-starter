@@ -15,7 +15,7 @@ sections:
       qualidade.
     actions:
       - type: Button
-        label: Get started
+        label: Solicite Sua Consultoria Agora!
         altText: ''
         url: /
         showIcon: false
