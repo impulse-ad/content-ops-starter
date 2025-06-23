@@ -9,9 +9,10 @@ sections:
       color: text-dark
     subtitle: Orientação Personalizada para Mestrado e Artigos Científicos.
     text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Oferecemos consultoria ética e individualizada para cada etapa do seu
+      projeto, desde a pesquisa inicial até a defesa final. Nosso foco é na sua
+      autonomia e no desenvolvimento de um trabalho autêntico e de alta
+      qualidade.
     actions:
       - type: Button
         label: Get started
