@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Dissertação
+title: Dissertação para Mestrandos
 sections:
   - type: GenericSection
     title:
