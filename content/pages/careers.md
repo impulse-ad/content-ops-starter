@@ -10,8 +10,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: 'Orientação Personalizada para Mestrado, Doutorado e Artigos Científicos.'
-    text: |
-      Orientação Personalizada para Mestrado, Doutorado e Artigos Científicos.
+    text: >+
+      Oferecemos consultoria ética e individualizada para cada etapa do seu
+      projeto, desde a pesquisa inicial até a defesa final.
+
     actions:
       - label: See open positions
         url: /
