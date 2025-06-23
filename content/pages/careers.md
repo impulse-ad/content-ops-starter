@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: 'Orientação Personalizada para Mestrado, Doutorado e Artigos Científicos.'
     text: |
       Orientação Personalizada para Mestrado, Doutorado e Artigos Científicos.
     actions:
