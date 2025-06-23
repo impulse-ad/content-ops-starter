@@ -301,7 +301,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Como funciona
       color: text-primary
       styles:
         self:
