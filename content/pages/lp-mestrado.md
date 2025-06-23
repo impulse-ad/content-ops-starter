@@ -47,7 +47,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Ao contratar a consultoria
     items:
       - type: FeaturedItem
         title: Apoio
