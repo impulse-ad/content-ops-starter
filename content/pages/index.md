@@ -109,10 +109,9 @@ sections:
         type: FeaturedItem
       - title: Revisão
         subtitle: e sugestões
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Receba feedbacks detalhados que elevam o nível da sua dissertação —
+          tanto no conteúdo quanto na forma.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
