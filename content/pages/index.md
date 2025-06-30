@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: A dissertação tira seu sono?
+      text: Dissertação tira seu sono?
       color: text-dark
       type: TitleBlock
     subtitle: Orientação Personalizada para Mestrado e Artigos Científicos.
@@ -164,18 +164,18 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Acompanhamento
+      text: Apoio
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
     subtitle: até a aprovação
-    text: >
+    text: >+
+      <div style="text-align: center">Oferecemos apoio ético, estruturado e
+      personalizado para cada etapa da sua dissertação, garantindo orientação de
+      qualidade com foco no seu sucesso acadêmico.</div>
 
-      Oferecemos apoio ético, estruturado e personalizado para cada etapa da sua
-      dissertação, garantindo orientação de qualidade com foco no seu sucesso
-      acadêmico.
     colors: bg-light-fg-dark
     styles:
       self:
@@ -204,114 +204,32 @@ sections:
         iconPosition: right
         style: primary
         elementId: botao03_saibamais
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
-      text: Social Media Management
+      text: O plano definitivo para sua dissertação
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Orientação Especializada
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+
+      Oferecemos apoio ético, estruturado e totalmente personalizado para cada
+      etapa da sua dissertação. 
+
+      Nosso serviço foi criado para entregar um plano completo que respeita a
+      originalidade do seu trabalho, organiza suas ideias com clareza e
+      transforma desafios acadêmicos em soluções práticas. 
     actions:
       - label: Get started
-        url: /
+        url: >-
+          https://wa.me/5532991422833?text=Vi%20um%20an%C3%BAncio%20sobre%20plano%20de%20acompanhamento.%20Preciso%20de%20um%20plano!
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
+      url: >-
+        /images/Gemini_Generated_Image_vawzn4vawzn4vawz-r7s6edjpyaf14ab5a491sih3ojxhxhncn2sz3bz90w.webp
       altText: Dope design preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
