@@ -132,7 +132,8 @@ sections:
     actions:
       - label: Solicitar Consultoria
         altText: ''
-        url: /
+        url: >-
+          https://wa.me/5532991422833?text=Vi%20um%20an%C3%BAncio%20sobre%20Consultoria%20Acad%C3%AAmica.%20Gostaria%20de%20solicitar%20uma%20consultoria!
         showIcon: false
         icon: arrowRight
         iconPosition: right
