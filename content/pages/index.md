@@ -171,11 +171,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: até a aprovação
-    text: >
+    text: >+
+      <div style="text-align: center">Oferecemos apoio ético, estruturado e
+      personalizado para cada etapa da sua dissertação, garantindo orientação de
+      qualidade com foco no seu sucesso acadêmico.</div>
 
-      Oferecemos apoio ético, estruturado e personalizado para cada etapa da sua
-      dissertação, garantindo orientação de qualidade com foco no seu sucesso
-      acadêmico.
     colors: bg-light-fg-dark
     styles:
       self:
