@@ -185,7 +185,8 @@ sections:
     type: GenericSection
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: >-
+        /images/Gemini_Generated_Image_hbi1rohbi1rohbi1-r7s9j900n2xlakcr6ep8pj2rp9l990qz5r10qimbu8.webp
       altText: Image alt text placeholder
       elementId: ''
       styles:
