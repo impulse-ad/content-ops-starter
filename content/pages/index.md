@@ -113,7 +113,7 @@ sections:
           Receba feedbacks detalhados para elevar o nível da sua dissertação
           tanto no conteúdo quanto na forma.
         image:
-          url: /images/icon3.svg
+          url: /images/check-square.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
