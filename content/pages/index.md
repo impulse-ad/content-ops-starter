@@ -195,7 +195,7 @@ sections:
           borderRadius: medium
     actions:
       - type: Button
-        label: Get started
+        label: Saiba Mais
         altText: ''
         url: >-
           https://wa.me/5532991422833?text=Vi%20um%20an%C3%BAncio%20sobre%20apoio%20personalizado%20para%20disserta%C3%A7%C3%A3o.%20Gostaria%20de%20saber%20mais!
