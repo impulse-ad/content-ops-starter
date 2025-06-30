@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: A dissertação tira seu sono?
+      text: Dissertação tira seu sono?
       color: text-dark
       type: TitleBlock
     subtitle: Orientação Personalizada para Mestrado e Artigos Científicos.
