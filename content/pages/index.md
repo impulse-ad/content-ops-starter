@@ -219,7 +219,8 @@ sections:
       transforma desafios acadêmicos em soluções práticas. 
     actions:
       - label: Get started
-        url: /
+        url: >-
+          https://wa.me/5532991422833?text=Vi%20um%20an%C3%BAncio%20sobre%20plano%20de%20acompanhamento.%20Preciso%20de%20um%20plano!
         icon: arrowRight
         iconPosition: right
         style: secondary
