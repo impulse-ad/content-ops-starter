@@ -22,15 +22,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See utorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/3122320997322067610.webp
       altText: Unblock your team boost your time to production preview
