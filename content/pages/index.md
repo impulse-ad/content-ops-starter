@@ -110,7 +110,7 @@ sections:
       - title: Revisão
         subtitle: e sugestões
         text: >
-          Receba feedbacks detalhados que elevam o nível da sua dissertação —
+          Receba feedbacks detalhados para elevar o nível da sua dissertação
           tanto no conteúdo quanto na forma.
         image:
           url: /images/icon3.svg
