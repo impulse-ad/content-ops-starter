@@ -56,10 +56,10 @@ sections:
       - type: FeaturedItem
         title: Atendimento
         subtitle: individualizado
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          Nosso suporte se adapta à sua área, ao seu cronograma e às suas
+          dificuldades específicas
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
