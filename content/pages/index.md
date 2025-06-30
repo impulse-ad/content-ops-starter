@@ -13,7 +13,7 @@ sections:
       em qualquer etapa do trabalho.
 
     actions:
-      - label: Get started
+      - label: Fale com um especialista
         altText: ''
         url: /
         showIcon: false
