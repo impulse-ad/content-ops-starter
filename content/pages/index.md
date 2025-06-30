@@ -51,7 +51,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: da consultoria
+    subtitle: 'orientação com ética, foco em aprendizado e excelência'
     items:
       - type: FeaturedItem
         title: Atendimento
