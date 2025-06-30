@@ -175,26 +175,6 @@ sections:
       Oferecemos apoio ético, estruturado e personalizado para cada etapa da sua
       dissertação, garantindo orientação de qualidade com foco no seu sucesso
       acadêmico.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     colors: bg-light-fg-dark
     styles:
       self:
@@ -203,6 +183,15 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    media:
+      type: ImageBlock
+      url: >-
+        /images/Gemini_Generated_Image_hbi1rohbi1rohbi1-r7s9j900n2xlakcr6ep8pj2rp9l990qz5r10qimbu8.webp
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: GenericSection
     title:
       text: Generic section with a video
