@@ -210,8 +210,13 @@ sections:
       type: TitleBlock
     subtitle: Orientação Especializada
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+
+      Oferecemos apoio ético, estruturado e totalmente personalizado para cada
+      etapa da sua dissertação. 
+
+      Nosso serviço foi criado para entregar um plano completo que respeita a
+      originalidade do seu trabalho, organiza suas ideias com clareza e
+      transforma desafios acadêmicos em soluções práticas. 
     actions:
       - label: Get started
         url: /
