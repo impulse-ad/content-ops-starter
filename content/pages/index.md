@@ -8,10 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Orientação Personalizada para Mestrado e Artigos Científicos.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Oferecemos suporte completo, orientação e acompanhamento para mestrandos
+      em qualquer etapa do trabalho.
+
     actions:
       - label: Get started
         altText: ''
