@@ -108,7 +108,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Revisão
-        subtitle: e sugestões de melhoria
+        subtitle: e sugestões
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
