@@ -205,7 +205,7 @@ sections:
         style: primary
         elementId: botao03_saibamais
   - title:
-      text: Business Consulting
+      text: O plano definitivo para sua dissertação
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
