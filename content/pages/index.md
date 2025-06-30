@@ -51,7 +51,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: da consultoria
     items:
       - type: FeaturedItem
         title: Atendimento
