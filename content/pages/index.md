@@ -110,10 +110,10 @@ sections:
       - title: Revisão
         subtitle: e sugestões
         text: >
-          Receba feedbacks detalhados que elevam o nível da sua dissertação —
+          Receba feedbacks detalhados para elevar o nível da sua dissertação
           tanto no conteúdo quanto na forma.
         image:
-          url: /images/icon3.svg
+          url: /images/check-square.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -163,18 +163,18 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Acompanhamento
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: até a aprovação
+    text: >
+
+      Oferecemos apoio ético, estruturado e personalizado para cada etapa da sua
+      dissertação, garantindo orientação de qualidade com foco no seu sucesso
+      acadêmico.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -195,13 +195,6 @@ sections:
       autoplay: true
       loop: true
       muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
