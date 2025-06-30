@@ -170,11 +170,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: até a aprovação
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+
+      Oferecemos apoio ético, estruturado e personalizado para cada etapa da sua
+      dissertação, garantindo orientação de qualidade com foco no seu sucesso
+      acadêmico.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
