@@ -15,7 +15,8 @@ sections:
     actions:
       - label: Fale com um especialista
         altText: ''
-        url: /
+        url: >-
+          https://wa.me/5532991422833?text=Vi%20um%20an%C3%BAncio%20sobre%20orienta%C3%A7%C3%A3o%20para%20Mestrado.%20Gostaria%20de%20falar%20com%20um%20especialista!
         showIcon: false
         icon: arrowRight
         iconPosition: right
