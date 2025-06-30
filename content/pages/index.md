@@ -141,7 +141,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Ths is a badge
+      label: Thsis a badge
       color: text-primary
       styles:
         self:
