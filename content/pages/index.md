@@ -84,10 +84,10 @@ sections:
               borderRadius: x-large
       - title: Escrita
         subtitle: clara e objetiva
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Transforme suas ideias em textos coesos e argumentativos com linguagem
+          adequada à sua pós
+
         image:
           url: /images/edit.svg
           altText: Featured icon two
