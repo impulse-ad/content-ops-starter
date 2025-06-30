@@ -8,36 +8,28 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Orientação Personalizada para Mestrado e Artigos Científicos.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Oferecemos suporte completo, orientação e acompanhamento para mestrandos
+      em qualquer etapa do trabalho.
+
     actions:
-      - label: Get started
+      - label: Fale com um especialista
         altText: ''
-        url: /
+        url: >-
+          https://wa.me/5532991422833?text=Vi%20um%20an%C3%BAncio%20sobre%20orienta%C3%A7%C3%A3o%20para%20Mestrado.%20Gostaria%20de%20falar%20com%20um%20especialista!
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ''
+        elementId: botao01_especialista
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/3122320997322067610.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,21 +45,21 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Vantagens
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: da consultoria
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Atendimento
+        subtitle: individualizado
+        text: >
+
+          Nosso suporte se adapta à sua área, ao seu cronograma e às suas
+          dificuldades específicas
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -86,18 +78,18 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/user (1).svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Escrita
+        subtitle: clara e objetiva
+        text: >+
+          Transforme suas ideias em textos coesos e argumentativos com linguagem
+          adequada à sua pós
+
         image:
-          url: /images/icon2.svg
+          url: /images/edit.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -148,13 +140,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
