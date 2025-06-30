@@ -78,7 +78,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/person-workspace.svg
+          url: /images/user (1).svg
           styles:
             self:
               borderRadius: x-large
