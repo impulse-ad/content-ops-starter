@@ -164,7 +164,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Acompanhamento
+      text: Apoio
       color: text-dark
       styles:
         self:
