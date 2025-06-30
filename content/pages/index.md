@@ -226,7 +226,8 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero3.svg
+      url: >-
+        /images/Gemini_Generated_Image_vawzn4vawzn4vawz-r7s6edjpyaf14ab5a491sih3ojxhxhncn2sz3bz90w.webp
       altText: Dope design preview
       type: ImageBlock
     colors: bg-light-fg-dark
