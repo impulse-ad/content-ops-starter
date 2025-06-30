@@ -45,7 +45,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Vantagens
+      text: Consultoria Acadêmica
       color: text-dark
       styles:
         self:
